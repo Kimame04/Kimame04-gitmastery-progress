@@ -50,5 +50,14 @@
     "completed_at": 1786701012.657464,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786975847.263541,
+    "completed_at": 1786975857.984888,
+    "comments": [
+      "Your Github CLI is not setup correctly"
+    ],
+    "status": "Incomplete"
   }
 ]
