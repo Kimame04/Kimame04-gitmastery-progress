@@ -455,5 +455,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1787906150.674628,
+    "completed_at": 1787906152.565197,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
   }
 ]
