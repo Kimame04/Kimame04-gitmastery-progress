@@ -419,5 +419,14 @@
       "You have successfully completed the exercise!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787905545.667466,
+    "completed_at": 1787905548.825697,
+    "comments": [
+      "The local STU branch is not created."
+    ],
+    "status": "Incomplete"
   }
 ]
