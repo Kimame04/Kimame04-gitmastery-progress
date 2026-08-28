@@ -437,5 +437,14 @@
       "Great work! All required branches are present and correctly set up."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787905745.714992,
+    "completed_at": 1787905747.137121,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
   }
 ]
